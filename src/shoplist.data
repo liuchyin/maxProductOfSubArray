@@ -1,0 +1,16 @@
+(lp1
+S'apple'
+p2
+aS'mango'
+p3
+aS'carrot'
+p4
+a.(lp1
+I1
+aI2
+aI3
+a.(lp1
+I3
+aI4
+aI5
+a.
